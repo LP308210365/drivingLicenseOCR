@@ -1,0 +1,16 @@
+*.pth
+*.jpg
+*.jpeg
+*.png
+*.pyc
+*ttf
+*.ipynb
+.idea/
+*.weights
+*.cfg
+models
+evaluate.py
+test.py
+Test_Opencv
+cccd
+
